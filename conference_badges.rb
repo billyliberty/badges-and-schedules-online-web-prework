@@ -8,5 +8,3 @@ def batch_badge_creator(attendees)
     puts badge_maker(name)
   end
 end
-
-
