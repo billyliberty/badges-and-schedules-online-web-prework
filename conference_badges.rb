@@ -3,4 +3,3 @@ def batch_badge_creator(attendee)
   puts "Hello, my name is ${attendee} ."
 end
 
-end
