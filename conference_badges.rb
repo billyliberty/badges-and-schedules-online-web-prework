@@ -27,6 +27,4 @@ def printer(label)
    assign_rooms(label).each do |assignment|
     puts assignment
   end
-end 
-
-
+end
