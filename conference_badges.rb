@@ -1,4 +1,4 @@
-def batch_badge_creator(attendee)
-  attendee = ["Edsger", "Ada", "Charles", "Alan", "Grace", "Linus", "Matz"]
-  puts "Hello, my name is #{attendee}."
+def batch_badge_creator(name)
+  name = ["Edsger", "Ada", "Charles", "Alan", "Grace", "Linus", "Matz"]
+  puts "Hello, my name is #{name}."
 end
