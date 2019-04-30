@@ -28,4 +28,3 @@ def printer(badge)
     return assignment
   end
 end
-  
